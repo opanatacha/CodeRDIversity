@@ -33,7 +33,7 @@ namespace CodeRDiversityExercicios.Aula10
                 else
                 {
                     Itens[posicaoItem] = item;
-                    Console.WriteLine("Adicionado o item" + item + "!");
+                    Console.WriteLine("Adicionado o item " + item + "!");
                 }
             }
             else
